@@ -13,8 +13,12 @@ body {
 }
 
 .resume-header {
-  font-weight: bold;
   padding: 1em 0em 1em 3em;
+}
+
+.resume-header-text {
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 .resume-text {
@@ -27,8 +31,6 @@ body {
   padding-top: 3em;
   padding-bottom: 2em;
 }
-
-
 
 .homepage {
 	margin: 0px 0px 30px 0px;
@@ -43,14 +45,12 @@ body {
   border-bottom: 0px;
 }
 
-
-
 .navbar .navbar-brand, .navbar .navbar-brand:hover {
 	color: #fff;
-  	letter-spacing: 1px;
-  	font-weight: 700;
-  	text-transform: uppercase;
-  	font-size: .9em;
+	letter-spacing: 1px;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: .9em;
 }
 
 .footer {
