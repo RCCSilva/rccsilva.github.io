@@ -70,8 +70,10 @@ body {
   color: #606060;
 }
 
-.li-location {
-  float: right;
+@media (min-width: 768px){
+  .li-location {
+    float: right;
+  }
 }
 
 /* Resume */
